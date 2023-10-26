@@ -108,3 +108,63 @@ To enhance the model, I continued refining its shape by adding additional detail
 Texturing: To give Doraemon a realistic appearance, I either created or sourced textures for his skin, eyes, and other distinct characteristics. In the Shader Editor, I applied these materials and textures to add colors and intricate details to the model. Additionally, I used Blender's texture painting tools to enhance the model's overall texture and appearance.
 
 Clone: Copy the model of rem then make mirror of the hair and change the color of hair and eye to pink.
+
+
+Chris's work:
+
+Livingroom:
+
+Reference: 
+Early Sketch Available at:
+https://drive.google.com/file/d/19ZKhC41IbmfQ2yxQlwi2GZGxLz3FvSnN/view?usp=sharing (Created: 5th October 2023)
+
+HDR Backplate Available at:
+https://polyhaven.com/a/sunset_jhbcentral (Accessed 19th October)
+
+Process:
+1. Started with a cube, resized and scaled to sketch reference.
+2. Adjusted camera to suit the render view, added an edge loop and then extruded one of the faces to make a mini corridor/illusion to create space effect.
+3. Done another few edge loops on the back wall, deleted the face and used the Archimesh add-on (built-in to blender) to create a 2in1 window.
+4. Used the HDRI to provide an external view for realism and to make it easier on the render.
+5. Created materials and applied to walls/ceiling/floor.
+
+
+Sofa:
+
+Reference:
+-See sketch link above-
+
+Process:
+1. Started again with a cube, scaled to size.
+2. Created a material, assigned it to the sofa and placed against the wall
+
+
+Cushions:
+
+Reference:
+-See sketch link above-
+
+Process:
+1. Started with another cube and scaled to appropriate size.
+2. Created a vertical loop cut and changed the number of cuts to 5, then the same but horizontally.
+3. Added a loop cut across the center and subdivided it once.
+4. Applied a cloth simulation with a pressure of 2.
+5. Reduced the gravity to 0.
+6. Pressed play and paused near the beginning of the simulation.
+7. Repeated steps 1-7 for 2 more cushions.
+8. Created materials and assigned colours to each cushion.
+9. Placed cushions on sofa base and merged as one object.
+
+
+TV:
+
+Reference:
+-See sketch link above-
+
+Process:
+1. Started again with a cube, flattened and scaled to size.
+2. Created loop cuts for the tv frame.
+3. Created a material, assigned it to the frame and placed on the wall.
+4. For the screen I started again with a cube, flattened and scaled to size.
+5. Created a material, assigned it to the screen and placed on wall.
+6. Merged into one object.
