@@ -70,3 +70,41 @@ Render
 
 1. Used Render engine Eevee.
 2. Used High contrast in color management
+
+
+
+
+
+
+
+
+Magnus's works:
+
+Pikachu:
+
+Reference Gathering: I collected reference images of Pikachu from various sources to ensure I had accurate visuals to work with.
+
+Modelling: I began by constructing the basic shape of Pikachu's head, then added details like the eyes, nose, and mouth. I followed a similar approach for the body, incorporating the tail, hands, and feet. To achieve a smoother look, I applied the subdivision surface modifier and used the mirror modifier to streamline the process.
+
+Texturing: For texturing, I created custom textures for Pikachu's skin, eyes, and other distinctive features. In the Shader Editor, I applied these materials and textures to give the model its colors and details. Additionally, I utilized Blender's texture painting tools to enhance the model's appearance.
+
+Doraemon:
+
+Reference Gathering: I gathered reference images of Doraemon to serve as my visual guide throughout the modeling process.
+
+Modelling: To begin, I crafted the fundamental 3D mesh that closely resembled Doraemon's face. Then, I added finer details such as the nose and eyes. I used nurbscurves to create Doraemon's iconic beard and mouth. To ensure a smooth appearance, I implemented the subdivision surface modifier and the mirror modifier for operational efficiency.
+
+To enhance the model, I continued refining its shape by adding additional details and smoothing its surface. The subdivision surface modifier was instrumental in achieving the desired smoothness.
+
+Texturing: To give Doraemon a realistic appearance, I either created or sourced textures for his skin, eyes, and other distinct characteristics. In the Shader Editor, I applied these materials and textures to add colors and intricate details to the model. Additionally, I used Blender's texture painting tools to enhance the model's overall texture and appearance.
+
+Rem and Ram:
+Reference Gathering: I gathered reference images of Rem to serve as my visual guide throughout the modeling process.
+
+Modelling : To begin, I crafted the fundamental 3D mesh that closely resembled Rem's face. Then, I added finer details such as the nose and eyes. To ensure a smooth appearance, I implemented the subdivision surface modifier and the mirror modifier for operational efficiency.
+
+To enhance the model, I continued refining its shape by adding additional details and smoothing its surface.
+
+Texturing: To give Doraemon a realistic appearance, I either created or sourced textures for his skin, eyes, and other distinct characteristics. In the Shader Editor, I applied these materials and textures to add colors and intricate details to the model. Additionally, I used Blender's texture painting tools to enhance the model's overall texture and appearance.
+
+Clone: Copy the model of rem then make mirror of the hair and change the color of hair and eye to pink.
