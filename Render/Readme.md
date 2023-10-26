@@ -40,3 +40,33 @@ Process:
 2. Create the remaining parts of the guitar (Head, Bridge, String and so on).
 3. Create some materials for all parts (color -- use the Eyedropper on the reference pic) and assign them to the different surfaces.
 4. Add text(creater's name) as the brand on the head.
+
+Model Name : Spandan's Anime Room
+
+Process
+
+1. Added the different materials that are used like the planes, cubes, UV spheres.
+2. Added the base first with plane mesh, added planks by duplicating and scaling the base.
+3. Added a frame by duplicating a wall and extruding it outward and shaping it into 3 frames one big and two small.ed
+4. Added a bed by using a plane mesh for bed and matteress and added supporing pillars and used the mirror modifier to mirror them around the bed.
+5. Added a shelf with pokeball, books and a cactus plant in a clay pot.
+6. Pokeball made using UV sphere and using the knnifing tool to make the center cut and adding different layers of spheres to make the final shape.
+7. Added a drawer shelf using different methods like extrusion, sclaing , insertion etc.
+8. Added a mat infront of the bed.
+
+Lighting 
+
+1. Added two area lights on to adjust the lighting.
+
+Materials
+
+1. Added multiple color materials for different objects.
+
+Output
+
+1. Used 1080 x 1080 ptx frame.
+
+Render
+
+1. Used Render engine Eevee.
+2. Used High contrast in color management
