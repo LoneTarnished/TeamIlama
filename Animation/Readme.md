@@ -44,6 +44,15 @@ Process:
 
 5.Material Adjustments: After the import, there may be some material issues that need addressing. This could involve tweaking textures, adjusting shaders, or fixing transparency and reflectivity properties to ensure Rem's appearance is as intended within the engine's lighting and rendering systems.
 
+Spandan Rivoncar
+
+Exported the room files in .fbx format and imporrted in Unreal engine 5.
+
+Made UV maps and light maps for all the furniture and setup the scene with lighting.
+
+References:- used Necro's Utility Material Pack which is free
+
+Link: https://www.unrealengine.com/marketplace/en-US/product/necro-s-utility-material-pack
 
 
 
