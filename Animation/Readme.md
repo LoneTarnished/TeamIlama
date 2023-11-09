@@ -54,7 +54,25 @@ References:- used Necro's Utility Material Pack which is free
 
 Link: https://www.unrealengine.com/marketplace/en-US/product/necro-s-utility-material-pack
 
+--Chris Moore Animation for pikachu and Doraemon
 
+Pikachu:
+
+Process:
+1.In blender I selected all parts of the model and combined them using the join function, fixed export settings and then exported as fbx file.
+2.Then in unreal engine I imported the fbx file and ensured all lighting and textures were functioning before placing the model.
+3.Bones were added for arms, legs and head.
+4.Created animation using keyframes in the level sequence that Leon had created.
+
+
+
+Doraemon:
+
+Process:
+1.Once again in blender I selected all parts of the character model and combined them using the join function,
+  but this did not work as the character model was partially mirrored when created.
+2.Due to time constraints, I did not manage to get Doraemon exported fully to be used and animated in the scene.
+3.More lights were added and colour changed in place as extra content to go with the theme
 
 
 
