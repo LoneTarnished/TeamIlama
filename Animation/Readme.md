@@ -25,3 +25,27 @@ Process:
 5. Fix some metarial issues.
 6. Create animation and level sequence.
 7. Setting Play sequence in level blueprint.
+
+Magnus(Xinyi Zhu) Characters with animation
+1:Rem
+
+Reference:
+Rem Character Art Face Angles（2019）
+https://rezero.fandom.com/wiki/Rem/Image_Gallery
+
+Process:
+1.Rigging the Model: Begin by adding a skeletal structure, or 'bones', to Rem's character model. Each major part of the body—such as the arms, legs, and spine—should have its own set of bones. This step is crucial for enabling realistic movement during animation.
+
+2.Animating the Character: With the rigging in place, proceed to animate Rem. Start with a simple waving hand motion to test the rigging. Then, add a floating effect to give the impression that Rem is either standing in a gust of wind or using magic.
+
+3.Exporting the Animation: Once the animation is satisfactory, export the character model and its animations as an FBX file. Ensure that the export settings are tailored to maintain the integrity of the animations and the model for import into the Unreal Engine.
+
+4.Importing into Unreal Engine: Import the FBX file into Unreal Engine. During the import process, make sure to deselect 'Simulate Physics' and 'Enable Gravity' options to prevent the Unreal Engine's physics system from affecting the animation.
+
+5.Material Adjustments: After the import, there may be some material issues that need addressing. This could involve tweaking textures, adjusting shaders, or fixing transparency and reflectivity properties to ensure Rem's appearance is as intended within the engine's lighting and rendering systems.
+
+
+
+
+
+
